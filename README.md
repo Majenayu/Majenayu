@@ -30,10 +30,10 @@
   
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://majenayu.up.railway.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pgayushrai.onrender.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majenayu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pg-ayush-rai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.rai@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/p-g-ayush-rai-8b90082a9/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pgayushrai@gmail.com)
 
 </div>
 
@@ -296,7 +296,7 @@ class Developer:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majenayu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Majenayu&limit=4&theme=tokyonight&hide_border=true" alt="Top Contributed Repos" />
 </div>
 
 <div align="center">
@@ -310,6 +310,24 @@ class Developer:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Majenayu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&custom_title=Ayush's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -376,14 +394,6 @@ class Developer:
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&custom_title=Ayush's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
-
 ## 💭 Random Dev Quote
 
 <div align="center">
@@ -394,27 +404,11 @@ class Developer:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 <div align="center">
 
 ### 💖 Show some love by starring repositories you find interesting!
 
 [![GitHub Followers](https://img.shields.io/github/followers/Majenayu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Majenayu?tab=followers)
-
-### 📊 Profile Statistics
-
-![Profile Views](https://komarev.com/ghpvc/?username=Majenayu&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
