@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🚀 Welcome to My Digital Universe! 🌌
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+P+G+Ayush+Rai;Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Solutions+That+Matter+%F0%9F%9A%80;Python+%7C+Node.js+%7C+MongoDB+%7C+OpenCV;Let's+Build+Something+Amazing!" alt="Typing SVG" />
@@ -10,19 +10,20 @@
   <img src="https://img.shields.io/github/stars/Majenayu?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
-### 🌟 *Building innovative solutions that bridge technology and real-world needs* 🌟
+### <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="30"/> *Building innovative solutions that bridge technology and real-world needs* 🌟
 
 </div>
 
 ---
 
-## 🎯 Quick Access
+## 🎯 Quick Navigation
 
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/About%20Me-4A90E2?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
   <a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-4ECDC4?style=for-the-badge&logo=stackshare&logoColor=white"/></a>
   <a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-95E1D3?style=for-the-badge&logo=chartdotjs&logoColor=white"/></a>
+  <a href="#-connect-with-me"><img src="https://img.shields.io/badge/Contact-FFA07A?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,7 +69,11 @@ me = AyushRai()
 me.say_hi()
 ```
 
-### 💡 Quick Facts
+<br clear="right"/>
+
+<details>
+<summary><b>💡 More About Me (Click to expand!)</b></summary>
+<br/>
 
 - 🎓 **Education:** Computer Science @ Vidyavardhaka College of Engineering
 - 🔭 **Currently Working On:** Educational platforms & computer vision projects  
@@ -78,13 +83,15 @@ me.say_hi()
 - 🏆 **Achievement:** Pull Shark on GitHub
 - 📊 **Stats:** 1,206+ contributions | 30+ repositories | 6+ deployed projects
 
+</details>
+
 ---
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-### 🎨 Click on project names to explore!
+### 🎨 Click on project cards to explore!
 
 </div>
 
@@ -112,7 +119,7 @@ me.say_hi()
 - 📊 Real-time analytics & leaderboards
 - 👨‍🏫 Teacher/Student dashboards
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `Flask` `MongoDB Atlas` `PyMongo` `bcrypt` `Gunicorn`
 
 </td>
@@ -135,7 +142,7 @@ me.say_hi()
 - 🎯 Confidence scoring system
 - 💾 Model persistence (save/load)
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `OpenCV` `NumPy` `LBPH` `Python` `Computer Vision`
 
 </td>
@@ -161,7 +168,7 @@ me.say_hi()
 - 👥 User, Delivery, Company portals
 - 💾 MongoDB integration
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `Flask` `MongoDB` `HERE Maps API` `QR Codes` `REST API`
 
 </td>
@@ -184,7 +191,7 @@ me.say_hi()
 - 📅 Date-based records
 - 📥 Export reports functionality
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `Node.js` `Express.js` `MongoDB` `Multer` `bcrypt`
 
 </td>
@@ -212,7 +219,7 @@ me.say_hi()
 - 🎨 Canvas-based rendering
 - 🔄 Interactive clothing selection
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `JavaScript` `MediaPipe` `Canvas API` `HTML5` `CSS3`
 
 </td>
@@ -237,7 +244,7 @@ me.say_hi()
 - ✨ Smooth animations
 - 📱 Fully responsive design
 
-**🛠️ Built With:**
+**🛠️ Tech Stack:**
 `React 18` `JavaScript` `HTML5` `CSS3` `Animations`
 
 </td>
@@ -338,6 +345,40 @@ me.say_hi()
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🌟 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
+
+---
+
+## 😄 Daily Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+---
+
 ## 🎯 Current Focus & Goals
 
 <table>
@@ -404,32 +445,6 @@ me.say_hi()
 <td align="center">Pull Shark<br/>🦈</td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 🌟 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
-</picture>
-
-*Note: Snake animation requires workflow setup. See [FIX_SNAKE_ERROR.md](FIX_SNAKE_ERROR.md)*
 
 </div>
 
