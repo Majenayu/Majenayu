@@ -1,11 +1,17 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=P%20G%20Ayush%20Rai&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
 <h1 align="center">
     💫 Hi! I'm P G Ayush Rai
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-    <b>Full-Stack Developer | AI/ML Enthusiast | Problem Solver</b>
-    <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer+%7C+AI%2FML+Enthusiast;Building+Solutions+That+Matter;Python+%7C+Node.js+%7C+MongoDB+%7C+OpenCV" alt="Typing SVG" />
+</p>
+
+<p align="center">
     <i>
         Building innovative solutions that bridge technology and real-world needs.<br>
         Passionate about educational technology, computer vision, and scalable web applications.
@@ -13,10 +19,21 @@
 </p>
 
 <div align="center">
-    
-[![GitHub followers](https://img.shields.io/github/followers/Majenayu?label=Follow&style=social)](https://github.com/Majenayu)
-[![GitHub stars](https://img.shields.io/github/stars/Majenayu?label=Stars&style=social)](https://github.com/Majenayu)
-[![Website](https://img.shields.io/badge/Website-majenayu.up.railway.app-blue?style=flat-square&logo=railway)](http://majenayu.up.railway.app/)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Majenayu&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Majenayu)
+[![GitHub followers](https://img.shields.io/github/followers/Majenayu?label=Followers&style=social)](https://github.com/Majenayu?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Majenayu?label=Stars&style=social)](https://github.com/Majenayu?tab=repositories)
+
+</div>
+
+<div align="center">
+  
+### 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](http://majenayu.up.railway.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Majenayu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pg-ayush-rai)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.rai@example.com)
 
 </div>
 
@@ -24,23 +41,49 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student at **Vidyavardhaka College of Engineering (VVCE)**
-- 🔭 Currently working on educational platforms and computer vision projects
-- 🌱 Learning advanced AI/ML techniques and cloud architecture
-- 💡 Interested in EdTech, Computer Vision, and Enterprise Solutions
+```python
+class Developer:
+    def __init__(self):
+        self.name = "P G Ayush Rai"
+        self.role = "Full-Stack Developer & AI/ML Enthusiast"
+        self.education = "Vidyavardhaka College of Engineering (VVCE)"
+        self.location = "India"
+        self.languages = ["English", "हिंदी (Hindi)", "ಕನ್ನಡ (Kannada)"]
+        
+    def get_skills(self):
+        return {
+            "languages": ["Python", "JavaScript", "C", "HTML5", "CSS3"],
+            "backend": ["Flask", "Node.js", "Express.js", "Gunicorn"],
+            "frontend": ["React", "Canvas API", "Responsive Design"],
+            "databases": ["MongoDB", "MongoDB Atlas", "PyMongo", "Mongoose"],
+            "ai_ml": ["OpenCV", "MediaPipe", "Face Recognition", "NumPy"],
+            "devops": ["Railway", "Render", "Vercel", "Heroku", "Git"]
+        }
+    
+    def get_stats(self):
+        return {
+            "contributions": "1,206+ in last year",
+            "repositories": "30+ public repos",
+            "projects": "6+ major projects deployed",
+            "focus": ["EdTech", "Computer Vision", "Web Development"]
+        }
+```
+
+<details>
+<summary>📊 <b>More About Me</b></summary>
+<br>
+
+- 🎓 Computer Science Student at **VVCE**
+- 🔭 Currently working on **educational platforms** and **computer vision** projects
+- 🌱 Learning **advanced AI/ML techniques** and **cloud architecture**
+- 💡 Interested in **EdTech**, **Computer Vision**, and **Enterprise Solutions**
 - 📊 **1,206+ contributions** in the last year across **30+ repositories**
-- 🎯 Building production-ready applications that solve real problems
-- 💬 Ask me about Python, Flask, Node.js, MongoDB, OpenCV, or React
-- ⚡ Fun fact: I build apps in multiple languages (English, Hindi, Kannada)!
+- 🎯 Building **production-ready applications** that solve real problems
+- 💬 Ask me about **Python**, **Flask**, **Node.js**, **MongoDB**, **OpenCV**, or **React**
+- ⚡ Fun fact: I build apps in multiple languages - **English, Hindi, Kannada**!
+- 🏆 **Pull Shark** achievement unlocked on GitHub
 
-## 📫 Let's Connect!
-
-<p align="left">
-<a href="https://github.com/Majenayu"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="http://majenayu.up.railway.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=railway&logoColor=white" alt="Portfolio"/></a>
-</p>
+</details>
 
 ---
 
@@ -50,34 +93,38 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📚 Python Boot Camp
+### 📚 [Python Boot Camp](https://github.com/Majenayu/Python_Boot_Camp)
 **Educational Quiz Platform for Government Schools**
 
-- 60+ NCERT-based mathematics questions (Grades 8-10)
-- Multilingual support: English, हिंदी, ಕನ್ನಡ
-- Live quiz rooms with 4-digit codes
-- Real-time teacher/student dashboards
-- Performance analytics & leaderboards
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://python-boot-camp.onrender.com)
+![Python](https://img.shields.io/badge/Python-97.9%25-blue?style=flat-square)
 
-**Tech:** Python (97.9%), Flask, MongoDB Atlas
+**Key Features:**
+- 📖 60+ NCERT-based math questions (Grades 8-10)
+- 🌐 Trilingual: English, हिंदी, ಕನ್ನಡ
+- 🏫 Live quiz rooms with unique codes
+- 📊 Real-time analytics & leaderboards
+- 👨‍🏫 Separate teacher/student dashboards
 
-🔗 [View Project](https://github.com/Majenayu/Python_Boot_Camp) | [Live Demo](https://python-boot-camp.onrender.com)
+**Tech:** Flask • MongoDB Atlas • PyMongo • bcrypt
 
 </td>
 <td width="50%" valign="top">
 
-### 🎭 Face Recognition System
+### 🎭 [Face Recognition System](https://github.com/Majenayu/Face-recognization)
 **Real-time Face Detection & Recognition**
 
-- OpenCV Haar Cascade face detection
-- LBPH algorithm for recognition
-- Train on custom datasets
-- Video & webcam support
-- Confidence scoring system
+![Python](https://img.shields.io/badge/Python-100%25-blue?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-green?style=flat-square)
 
-**Tech:** Python (100%), OpenCV, NumPy
+**Key Features:**
+- 👤 Haar Cascade face detection
+- 🧠 LBPH recognition algorithm
+- 📹 Video & webcam support
+- 🎯 Confidence scoring system
+- 💾 Model persistence (save/load)
 
-🔗 [View Project](https://github.com/Majenayu/Face-recognization)
+**Tech:** OpenCV • NumPy • LBPH Algorithm
 
 </td>
 </tr>
@@ -85,34 +132,36 @@
 <tr>
 <td width="50%" valign="top">
 
-### 📦 TrackSmart (Infosys Project)
+### 📦 [TrackSmart - Infosys Project](https://github.com/Majenayu/Infosys)
 **Enterprise Delivery Tracking System**
 
-- QR code generation & scanning
-- Real-time GPS tracking with HERE Maps
-- Microservices architecture (3 services)
-- User, Delivery, and Company portals
-- MongoDB database integration
+![Flask](https://img.shields.io/badge/Flask-Microservices-blue?style=flat-square)
 
-**Tech:** Flask, MongoDB, HERE Maps API
+**Key Features:**
+- 📱 QR code generation & scanning
+- 🗺️ Real-time GPS tracking (HERE Maps)
+- 🏗️ Microservices architecture (3 services)
+- 👥 User, Delivery, Company portals
+- 💾 MongoDB integration
 
-🔗 [View Project](https://github.com/Majenayu/Infosys)
+**Tech:** Flask • MongoDB • HERE Maps API
 
 </td>
 <td width="50%" valign="top">
 
-### 🎖️ NCC Attendance Management
+### 🎖️ [NCC Attendance Management](https://github.com/Majenayu/NCC-VVCE-ATTENDENCE)
 **Image-Based Attendance Tracking**
 
-- Upload attendance photos (up to 10)
-- Secure authentication with bcrypt
-- Cadet management interface
-- Date-based attendance records
-- Export reports functionality
+![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=flat-square)
 
-**Tech:** Node.js, Express.js, MongoDB, Multer
+**Key Features:**
+- 📸 Upload attendance photos (up to 10)
+- 🔐 Secure bcrypt authentication
+- 👥 Cadet management interface
+- 📅 Date-based records
+- 📥 Export reports functionality
 
-🔗 [View Project](https://github.com/Majenayu/NCC-VVCE-ATTENDENCE)
+**Tech:** Node.js • Express.js • MongoDB • Multer
 
 </td>
 </tr>
@@ -120,34 +169,38 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Virtual Try-On System
+### 🎨 [Virtual Try-On System](https://github.com/Majenayu/CodeBreakers-vvce)
 **AI-Powered Pose Detection**
 
-- Real-time pose detection with MediaPipe
-- Shirt and pants overlay functionality
-- Webcam integration support
-- Canvas-based rendering
-- Interactive clothing selection
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://codebreakers-vvce.onrender.com)
+![JavaScript](https://img.shields.io/badge/JavaScript-46.5%25-yellow?style=flat-square)
 
-**Tech:** JavaScript (46.5%), MediaPipe, Canvas API
+**Key Features:**
+- 🤖 Real-time pose detection (MediaPipe)
+- 👕 Shirt & pants overlay
+- 📹 Webcam integration
+- 🎨 Canvas-based rendering
+- 🔄 Interactive clothing selection
 
-🔗 [View Project](https://github.com/Majenayu/CodeBreakers-vvce) | [Live Demo](https://codebreakers-vvce.onrender.com)
+**Tech:** JavaScript • MediaPipe • Canvas API
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ Majen Eye
+### 👁️ [Majen Eye](https://github.com/Majenayu/Majen_Eye)
 **Interactive Mouse & Eye Tracker**
 
-- Real-time mouse cursor following
-- Eye-following animations
-- React 18 implementation
-- Smooth animations
-- Responsive design
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=vercel)](https://majen-eye-1.onrender.com)
+![React](https://img.shields.io/badge/React-18-blue?style=flat-square)
 
-**Tech:** JavaScript (69.8%), React, HTML5, CSS3
+**Key Features:**
+- 🖱️ Real-time mouse cursor following
+- 👀 Eye-following animations
+- ⚛️ React 18 implementation
+- ✨ Smooth animations
+- 📱 Fully responsive design
 
-🔗 [View Project](https://github.com/Majenayu/Majen_Eye) | [Live Demo](https://majen-eye-1.onrender.com)
+**Tech:** React • JavaScript • HTML5 • CSS3
 
 </td>
 </tr>
@@ -157,60 +210,97 @@
 
 ## 💻 Tech Stack
 
-### 📌 Programming Languages
+<details open>
+<summary><b>📌 Programming Languages</b></summary>
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Backend Frameworks
+</details>
+
+<details open>
+<summary><b>🛠️ Frameworks & Libraries</b></summary>
+<br>
+
+**Backend:**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-### ⚛️ Frontend Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Canvas API](https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+**Frontend:**
 
-### 🗄️ Databases
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Canvas](https://img.shields.io/badge/Canvas_API-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PyMongo](https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 🤖 AI/ML & Computer Vision
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML & Computer Vision</b></summary>
+<br>
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Face Recognition](https://img.shields.io/badge/Face_Recognition-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ Cloud & Deployment
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🔧 Tools & Others
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Others</b></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![bcrypt](https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logo=databricks&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</details>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Majenayu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Majenayu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Majenayu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majenayu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Majenayu&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Majenayu&theme=tokyonight&hide_border=true)
-
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majenayu&theme=tokyonight)
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majenayu&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
@@ -218,30 +308,55 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Majenayu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Majenayu&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&theme=tokyo-night&hide_border=true)
+### 🔭 Working On
+- Enhancing Python Boot Camp platform
+- Adding more NCERT question banks
+- Building new EdTech features
+- Exploring deep learning applications
 
-</div>
+</td>
+<td width="50%">
 
----
+### 🌱 Learning
+- Advanced cloud architecture
+- Microservices patterns
+- TensorFlow & PyTorch
+- Docker & Kubernetes
 
-## 🎯 What I'm Working On
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-- 🔭 **Current Focus:** Enhancing Python Boot Camp with more NCERT questions and features
-- 🌱 **Learning:** Advanced cloud architecture and microservices patterns
-- 👯 **Open to collaborate on:** Educational technology projects, open-source contributions
-- 💡 **Next Project:** Building a comprehensive learning management system
-- 🎓 **Skill Goals:** Deep learning with TensorFlow/PyTorch, Docker & Kubernetes
+### 👯 Open To
+- Educational technology projects
+- Open-source contributions
+- Collaborative development
+- Mentorship opportunities
+
+</td>
+<td width="50%">
+
+### 🎓 Goals
+- Master deep learning
+- Build scalable systems
+- Contribute to OSS
+- Help students learn
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -249,14 +364,22 @@
 
 <div align="center">
 
-| 🎓 Education | 💼 Focus Areas | 🚀 Deployment |
-|:---:|:---:|:---:|
-| VVCE Student | EdTech, AI/ML, Web Dev | Railway, Render, Vercel |
+| 🎓 Education | 💼 Focus Areas | 🚀 Deployment | 📊 Contributions |
+|:---:|:---:|:---:|:---:|
+| VVCE Student | EdTech • AI/ML • Web Dev | Railway • Render • Vercel | 1,206+ Last Year |
 
-| 📊 Stats | 🌐 Languages Supported | 🛠️ Specialization |
-|:---:|:---:|:---:|
-| 1,206+ Contributions | English, हिंदी, ಕನ್ನಡ | Full-Stack + Computer Vision |
+| 🌐 Languages | 🛠️ Specialization | 📁 Projects | 🏆 Achievement |
+|:---:|:---:|:---:|:---:|
+| English • हिंदी • ಕನ್ನಡ | Full-Stack + CV | 30+ Repositories | Pull Shark |
 
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Majenayu&custom_title=Ayush's%20Contribution%20Graph&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -271,26 +394,40 @@
 
 ---
 
-## 👀 Profile Views
+## 🐍 Contribution Snake
 
 <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/Majenayu/count.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Majenayu/Majenayu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### 💖 Show some love by starring repositories you find interesting!
 
-[![GitHub followers](https://img.shields.io/github/followers/Majenayu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Majenayu?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/Majenayu.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Majenayu?tab=followers)
+
+### 📊 Profile Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=Majenayu&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  
+**Made with ❤️ by P G Ayush Rai | © 2026**
+
+*Building the future, one commit at a time* 🚀
+
 </div>
