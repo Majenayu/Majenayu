@@ -359,6 +359,88 @@ me.say_hi()
 
 ---
 
+## 🌆 3D Contribution Graph
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
+
+</div>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="./github-metrics.svg" alt="Detailed GitHub Metrics" />
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
+
+*➡️ [Read more on DEV.to](https://dev.to/majenayu)*
+
+---
+
+## 🎮 Mini Games
+
+<div align="center">
+
+### Play Tic-Tac-Toe!
+
+[![Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF6B6B?style=for-the-badge&logo=gamepad)](https://tic-tac-toe-readme.vercel.app/)
+
+### Chess Challenge
+
+[![Chess](https://img.shields.io/badge/Play-Chess-4ECDC4?style=for-the-badge&logo=chess)](https://marcizhu.github.io/readme-chess/)
+
+</div>
+
+---
+
+## 📊 Detailed Profile Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Majenayu&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Majenayu&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Majenayu&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Majenayu&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Majenayu&theme=tokyonight" />
+
+</div>
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+*📊 Track your coding time by following the [WakaTime Setup Guide](./WAKATIME_SETUP.md)*
+
+---
+
+## 🎵 Spotify Now Playing
+
+<div align="center">
+
+[![Spotify](https://novatorem-majenayu.vercel.app/api/spotify)](https://open.spotify.com/user/majenayu)
+
+*🎧 Check out my playlists!*
+
+</div>
+
+---
+
 ## 🌟 Random Dev Quote
 
 <div align="center">
@@ -374,6 +456,16 @@ me.say_hi()
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+---
+
+## 🔥 GitHub Streak Flame
+
+<div align="center">
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Majenayu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&sideLabels=00D9FF&dates=8B949E" alt="GitHub Streak" />
 
 </div>
 
