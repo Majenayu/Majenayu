@@ -219,3 +219,17 @@ If you’re working on **cybersecurity, EdTech, AI/ML, computer vision, or full-
 <sub>Thanks for stopping by.</sub>
 
 </div>
+## Featured systems
+
+These projects represent the strongest public and private systems in my current portfolio. Descriptions are intentionally limited to capabilities documented in their repositories.
+
+| Project | What it demonstrates | Demo / access |
+| --- | --- | --- |
+| [Evalify](https://github.com/Majenayu/Evalify) | Multi-tenant college activity, evidence, mentoring, AICTE reporting, security operations, and backup workflows. | Private repository; access required |
+| [Gram-Verify](https://github.com/Majenayu/Gram-Verify) | Rural banking verification with Aadhaar-oriented document authentication, digital land verification, and nominee notifications. | [Live demo](https://gram-verify.onrender.com) |
+| [NITK2025](https://github.com/Majenayu/NITK2025) | Plastic classification and sustainability tracking with image classification, eco-scores, and educational guidance. | [Live demo](https://nitk2025-node.onrender.com) |
+| [RAZOOOO](https://github.com/Majenayu/RAZOOOO) | Event registration and Razorpay payment workflows with fraud detection, AI investigation, and QR-based entry. | [Live demo](https://formpay-8zen.onrender.com) |
+| [Infosys](https://github.com/Majenayu/Infosys) | TrackSmart delivery platform with QR workflows, GPS tracking, role-specific portals, Flask services, MongoDB, and HERE Maps. | [Company portal](https://tracksmart-company.onrender.com) |
+| [solve2.0](https://github.com/Majenayu/solve2.0) | Campus placement platform for TPO teams, students, and alumni with drives, assessments, AI mock interviews, and alumni connectivity. | [Live demo](https://solve2-0.onrender.com) |
+
+> Private projects remain visible only to authorized collaborators. GitHub does not support making a private repository's README publicly visible while keeping the repository itself private.
