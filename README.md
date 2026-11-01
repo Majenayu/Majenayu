@@ -218,7 +218,6 @@ If you’re working on **cybersecurity, EdTech, AI/ML, computer vision, or full-
 
 <sub>Thanks for stopping by.</sub>
 
-</div>
 ## Featured systems
 
 These projects represent the strongest public and private systems in my current portfolio. Descriptions are intentionally limited to capabilities documented in their repositories.
@@ -233,3 +232,17 @@ These projects represent the strongest public and private systems in my current 
 | [solve2.0](https://github.com/Majenayu/solve2.0) | Campus placement platform for TPO teams, students, and alumni with drives, assessments, AI mock interviews, and alumni connectivity. | [Live demo](https://solve2-0.onrender.com) |
 
 > Private projects remain visible only to authorized collaborators. GitHub does not support making a private repository's README publicly visible while keeping the repository itself private.
+
+## Documentation map
+
+The profile links above point to working repositories, not product claims.
+For implementation details, start with the repository READMEs for
+[Cyber-Sentinel](https://github.com/Majenayu/Cyber-Sentinel),
+[Python_Boot_Camp](https://github.com/Majenayu/Python_Boot_Camp),
+[Infosys](https://github.com/Majenayu/Infosys),
+[Face-recognization](https://github.com/Majenayu/Face-recognization), and
+[CARBON-FOOT-PRINT](https://github.com/Majenayu/CARBON-FOOT-PRINT). Each
+project README is the authoritative place for its setup commands, data model,
+deployment status, and known limitations.
+
+</div>
