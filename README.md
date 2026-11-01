@@ -218,4 +218,16 @@ If you’re working on **cybersecurity, EdTech, AI/ML, computer vision, or full-
 
 <sub>Thanks for stopping by.</sub>
 
+## Documentation map
+
+The profile links above point to working repositories, not product claims.
+For implementation details, start with the repository READMEs for
+[Cyber-Sentinel](https://github.com/Majenayu/Cyber-Sentinel),
+[Python_Boot_Camp](https://github.com/Majenayu/Python_Boot_Camp),
+[Infosys](https://github.com/Majenayu/Infosys),
+[Face-recognization](https://github.com/Majenayu/Face-recognization), and
+[CARBON-FOOT-PRINT](https://github.com/Majenayu/CARBON-FOOT-PRINT). Each
+project README is the authoritative place for its setup commands, data model,
+deployment status, and known limitations.
+
 </div>
