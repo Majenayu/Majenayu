@@ -1,184 +1,74 @@
 <div align="center">
 
-<a href="https://github.com/Majenayu">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=30&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+P+G+Ayush+Rai;Cybersecurity+Builder+%7C+Full-Stack+Developer;AI%2FML+%2B+Secure+Systems;I+build+the+next+system" alt="Hi, I'm P G Ayush Rai" />
-</a>
+# P G Ayush Rai
 
-<p>
-  <strong>Building secure systems, intelligent applications, and thoughtful digital experiences.</strong>
-</p>
+**Full-Stack Developer | AI & ML | Software Development Engineer Intern candidate (2027)**
+
+Mysuru, India · B.E. CSE (AI & ML), Vidyavardhaka College of Engineering · CGPA 8.45
 
 <p>
   <a href="https://pgayushrai.onrender.com"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=0D1117" alt="Portfolio" /></a>
-  <a href="https://github.com/Majenayu"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/p-g-ayush-rai-8b90082a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/P_G_Ayush_Rai/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://profile.hackthebox.com/profile/019ef35c-7f84-73a0-93b6-f4287541b769"><img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="Hack The Box" /></a>
   <a href="mailto:pgayushrai@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Majenayu&label=Profile%20views&color=00D9FF&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Majenayu?label=Followers&style=flat-square&color=00D9FF" alt="GitHub followers" />
-</p>
-
 </div>
 
-```text
-┌─[ PG@profile ]─────────────────────────────────────────────────────────────┐
-│ STATUS    : ● SYSTEM ONLINE       NODE      : MYSURU, INDIA                │
-│ ROLE      : CYBERSECURITY BUILDER  +  FULL-STACK / AI-ML DEVELOPER         │
-│ SECURITY  : RECON  ·  THREAT DETECTION  ·  APPSEC  ·  HARDENING            │
-│ MISSION   : MAKE THE SAFER PATH THE DEFAULT PATH                           │
-└─[ secure by curiosity ]────────────────────────────────────────────────────┘
-```
+## About
 
-## About me
+I build full-stack products from scratch and ship them to real users. I work mostly in **Python, React, Node.js and MongoDB**, and I add AI and computer vision where it solves a real problem.
 
-I'm a Computer Science student at **Vidyavardhaka College of Engineering** who enjoys turning ideas into accessible, reliable software. My work spans cybersecurity, full-stack web development, educational technology, and computer vision.
+- AI/ML Intern at Turbo India Interconnect Solutions: building full-stack ERP features and an AI assistant with a chatbot interface.
+- Built **Evalify**, a multi-tenant AICTE activity-points platform running at VVCE with 700 registered students and 16 mentors.
+- Winner of Tech Spark 2025, IEEE Anveshan 2025 and IEEE Bar Camp 2025. Patent filed for a posture-detection model.
+- Solving DSA problems in Python on LeetCode.
+- Languages: English, Hindi, Kannada, Tulu.
 
-- Building learning experiences for students and teachers
-- Developing a hands-on security practice around visibility, testing, and defense
-- Exploring AI/ML and real-time computer vision
-- Designing clean, responsive interfaces backed by useful APIs
-- Speaking English, हिंदी, and ಕನ್ನಡ
-- Open to thoughtful collaborations in cybersecurity, EdTech, AI/ML, and web development
+## Featured projects
 
-## Cybersecurity // active defense
+| Project | What I built | Stack | Links |
+| --- | --- | --- | --- |
+| **Evalify** | Multi-tenant AICTE activity-points platform. Students upload evidence, mentors verify it, points are calculated and reports are generated. Role-based access, security operations and backups. | React, Node.js, MongoDB | [Live](https://evalify.tech) · [Demo](https://youtu.be/CUAox58apzE) |
+| **AsanaMinds** | AI yoga coach with real-time pose detection, posture correction, voice guidance, scoring and progress tracking. Accounts, certificates, web-push reminders and an admin dashboard. | Python, Flask, TensorFlow.js, MongoDB | [Live](https://asanaminds.onrender.com) · [Code](https://github.com/Majenayu/Anveshan) · [Demo](https://youtu.be/1zfEa6RNBq4) |
+| **FormPay** | Turns Google Form registrations into Razorpay payment links. Verifies payments with HMAC-SHA256 signed webhooks and replay protection, scores fraud risk with explainable rules, and rate-limits the intake API. | Node.js, TypeScript | [Code](https://github.com/Majenayu/RAZOOOO) |
+| **CyberSentinel** | AI-assisted security operations dashboard with threat monitoring, CVE and OSINT lookup, IP reputation, network reconnaissance and Groq-powered incident investigation. | React, Express, MongoDB | [Live](https://cyber-sentinel-clon.onrender.com) · [Code](https://github.com/Majenayu/Cyber-Sentinel) |
+| **ErgoTrack** | Posture assessment with MoveNet pose estimation (17 keypoints), joint angles and REBA/RULA ergonomic risk scoring. Patent filed. | Python, TensorFlow, React | [Code](https://github.com/Majenayu/AugmentedVision) |
 
-Security is a core direction of my work: understand the attack surface, validate the controls, and build monitoring and response that make systems safer. I’m developing practical depth across network reconnaissance, web security, incident triage, vulnerability assessment, and defensive engineering.
+### More work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>01 / RECON</strong><br />
-      Network discovery, service enumeration, traffic analysis, and attack-surface mapping.
-    </td>
-    <td width="33%" valign="top">
-      <strong>02 / TEST</strong><br />
-      Web application testing, vulnerability validation, privilege escalation, and CTF-style labs.
-    </td>
-    <td width="33%" valign="top">
-      <strong>03 / DEFEND</strong><br />
-      Threat detection, incident triage, access controls, WAF strategy, and security hardening.
-    </td>
-  </tr>
-</table>
+- [Python Boot Camp](https://github.com/Majenayu/Python_Boot_Camp): multilingual quiz platform for government schools with live quiz rooms, analytics and leaderboards (Flask, MongoDB).
+- [PlacementPro (solve2.0)](https://github.com/Majenayu/solve2.0): campus placement suite for students, alumni and admins ([live](https://solve2-0.onrender.com)).
+- [Gram-Verify](https://github.com/Majenayu/Gram-Verify): rural banking verification prototype ([live](https://gram-verify.onrender.com)).
+- [TrackSmart](https://github.com/Majenayu/Infosys): QR and GPS delivery tracking with role-based portals (Flask, MongoDB).
+- [Virtual Try-On](https://github.com/Majenayu/CodeBreakers-vvce): webcam pose detection with real-time clothing overlays (MediaPipe).
 
-<div align="center">
-
-<a href="https://github.com/Majenayu/Cyber-Sentinel"><img src="https://img.shields.io/badge/Cyber--Sentinel-Security_research-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Cyber-Sentinel security research repository" /></a>
-<a href="https://tryhackme.com/p/pgayushrai"><img src="https://img.shields.io/badge/TryHackMe-Hands--on_labs-C11119?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" /></a>
-<a href="https://profile.hackthebox.com/profile/019ef35c-7f84-73a0-93b6-f4287541b769"><img src="https://img.shields.io/badge/Hack_The_Box-Pentesting_&_CTFs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111111" alt="Hack The Box profile" /></a>
-
-</div>
-
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/Python_Boot_Camp">Python Boot Camp</a></h3>
-      <p>An educational quiz platform designed for government schools, with multilingual learning, live quiz rooms, teacher tools, and student analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/CodeBreakers-vvce">Virtual Try-On</a></h3>
-      <p>An interactive browser experience that uses pose detection and canvas rendering to preview clothing overlays in real time.</p>
-      <p>
-        <a href="https://codebreakers-vvce.onrender.com"><img src="https://img.shields.io/badge/Live_demo-00D084?style=flat-square&logo=render&logoColor=white" alt="Virtual Try-On live demo" /></a>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/Infosys">TrackSmart</a></h3>
-      <p>A delivery tracking system exploring QR workflows, GPS updates, role-based portals, and service-oriented Flask architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/HERE_Maps-00AFAA?style=flat-square&logo=here&logoColor=white" alt="HERE Maps" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/NCC-VVCE-ATTENDENCE">NCC Attendance</a></h3>
-      <p>An attendance management system for cadets with image uploads, authentication, date-based records, and report exports.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/Face-recognization">Face Recognition System</a></h3>
-      <p>A computer vision project for face detection and recognition using OpenCV, with webcam support, confidence scoring, and model persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Majenayu/Majen_Eye">Majen Eye</a></h3>
-      <p>A playful React experiment with cursor-following behavior, eye animations, and responsive motion design.</p>
-      <p>
-        <a href="https://majen-eye-1.onrender.com"><img src="https://img.shields.io/badge/Live_demo-00D084?style=flat-square&logo=render&logoColor=white" alt="Majen Eye live demo" /></a>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
-      </p>
-    </td>
-  </tr>
-</table>
+Some projects are private. Reach out if you want a walkthrough.
 
 ## Toolkit
 
 <div align="center">
 
-### Languages & application development
-
-<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css,react,nodejs,express,flask" alt="Python, JavaScript, C, HTML, CSS, React, Node.js, Express, Flask" />
-
-### Data, AI & computer vision
-
-<img src="https://skillicons.dev/icons?i=mongodb,opencv,tensorflow,numpy" alt="MongoDB, OpenCV, TensorFlow, NumPy" />
-
-### Security & observability
-
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Nmap-2C3E50?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=65A637" alt="Splunk" />
-  <img src="https://img.shields.io/badge/DMARC-334155?style=flat-square&logo=shield&logoColor=00D9FF" alt="DMARC" />
-</p>
-
-### Tools & deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,render,figma" alt="Git, GitHub, VS Code, Docker, Vercel, Render, Figma" />
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,express,flask,fastapi,mongodb,html,css,tensorflow,opencv,git,github,githubactions,googlecloud" alt="Python, React, Node.js, Express, Flask, FastAPI, MongoDB, HTML, CSS, TensorFlow, OpenCV, Git, GitHub, GitHub Actions, Google Cloud" />
 
 </div>
 
-## GitHub at a glance
+**Security:** Hack The Box and TryHackMe labs, with defensive projects like CyberSentinel.
 
-<div align="center">
+## Leadership
 
-<a href="https://github.com/Majenayu?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_my_repositories-00D9FF?style=for-the-badge&logo=github&logoColor=0D1117" alt="Explore my repositories" />
-</a>
-<a href="https://github.com/Majenayu?tab=overview">
-  <img src="https://img.shields.io/badge/View_my_activity-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View my GitHub activity" />
-</a>
+- NCC Cadet Captain leading about 100 cadets. Represented Karnataka at the 25-day Sea Training Camp, Mumbai.
+- Vice President of Vectorflow and Event Lead of the IEEE CIE Chapter. Led Vibeathon (sponsored by Kiro), 2 hackathons and 10 workshops.
 
-</div>
+## Let's connect
+
+If you're working on full-stack products, AI/ML or EdTech, I'd like to hear about it.
+
+[Email](mailto:pgayushrai@gmail.com) · [Portfolio](https://pgayushrai.onrender.com) · [LinkedIn](https://www.linkedin.com/in/p-g-ayush-rai-8b90082a9/) · [LeetCode](https://leetcode.com/u/P_G_Ayush_Rai/)
 
 <details>
-  <summary><strong>More contribution views</strong></summary>
+  <summary><strong>Contribution views</strong></summary>
   <br />
 
   <picture>
@@ -190,59 +80,4 @@ Security is a core direction of my work: understand the attack surface, validate
   <br /><br />
 
   <img src="./github-metrics.svg" alt="GitHub metrics" />
-
-  <p><sub>These visualizations are generated assets and may reflect the date they were last updated.</sub></p>
 </details>
-
-## Current direction
-
-| Building | Learning | Looking for |
-| --- | --- | --- |
-| Accessible EdTech tools | Deep learning and computer vision | Collaborations that create real value |
-| Useful full-stack products | Cloud architecture and microservices | Open-source projects to contribute to |
-| Simple interfaces for complex ideas | Docker and Kubernetes | Opportunities to keep growing |
-| Security tooling and defensive workflows | Network security and application security | Projects where privacy and trust matter |
-
-## Let's connect
-
-<div align="center">
-
-If you’re working on **cybersecurity, EdTech, AI/ML, computer vision, or full-stack products**, I’d love to hear about it.
-
-<a href="mailto:pgayushrai@gmail.com">Email</a> ·
-<a href="https://pgayushrai.onrender.com">Portfolio</a> ·
-<a href="https://www.linkedin.com/in/p-g-ayush-rai-8b90082a9/">LinkedIn</a> ·
-<a href="https://github.com/Majenayu">GitHub</a>
-
-<br /><br />
-
-<sub>Thanks for stopping by.</sub>
-
-## Featured systems
-
-These projects represent the strongest public and private systems in my current portfolio. Descriptions are intentionally limited to capabilities documented in their repositories.
-
-| Project | What it demonstrates | Demo / access |
-| --- | --- | --- |
-| [Evalify](https://github.com/Majenayu/Evalify) | Multi-tenant college activity, evidence, mentoring, AICTE reporting, security operations, and backup workflows. | Private repository; access required |
-| [Gram-Verify](https://github.com/Majenayu/Gram-Verify) | Rural banking verification with Aadhaar-oriented document authentication, digital land verification, and nominee notifications. | [Live demo](https://gram-verify.onrender.com) |
-| [NITK2025](https://github.com/Majenayu/NITK2025) | Plastic classification and sustainability tracking with image classification, eco-scores, and educational guidance. | [Live demo](https://nitk2025-node.onrender.com) |
-| [RAZOOOO](https://github.com/Majenayu/RAZOOOO) | Event registration and Razorpay payment workflows with fraud detection, AI investigation, and QR-based entry. | [Live demo](https://formpay-8zen.onrender.com) |
-| [Infosys](https://github.com/Majenayu/Infosys) | TrackSmart delivery platform with QR workflows, GPS tracking, role-specific portals, Flask services, MongoDB, and HERE Maps. | [Company portal](https://tracksmart-company.onrender.com) |
-| [solve2.0](https://github.com/Majenayu/solve2.0) | Campus placement platform for TPO teams, students, and alumni with drives, assessments, AI mock interviews, and alumni connectivity. | [Live demo](https://solve2-0.onrender.com) |
-
-> Private projects remain visible only to authorized collaborators. GitHub does not support making a private repository's README publicly visible while keeping the repository itself private.
-
-## Documentation map
-
-The profile links above point to working repositories, not product claims.
-For implementation details, start with the repository READMEs for
-[Cyber-Sentinel](https://github.com/Majenayu/Cyber-Sentinel),
-[Python_Boot_Camp](https://github.com/Majenayu/Python_Boot_Camp),
-[Infosys](https://github.com/Majenayu/Infosys),
-[Face-recognization](https://github.com/Majenayu/Face-recognization), and
-[CARBON-FOOT-PRINT](https://github.com/Majenayu/CARBON-FOOT-PRINT). Each
-project README is the authoritative place for its setup commands, data model,
-deployment status, and known limitations.
-
-</div>
